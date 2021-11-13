@@ -1,0 +1,6 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "go.autocompleteUnimportedPackages": true,
+    "go.coverOnTestPackage": false
+}
